@@ -7,7 +7,7 @@ On the site: https://vovazakharov.com/music/world-as-it-is
 ## Files
 
 - `world-as-it-is_mix.mp3` — the mix, unmastered: what the master was made from.
-- `world-as-it-is.mp3` — the master, as the site plays it.
+- `за_обложкой - Мир, какой он есть.mp3` — the master, as the site plays it.
 - `mastering/` — the script that made the master: `master.py`, the `spectrum.py` it imports, and their `requirements.txt`.
 
 ## How it was mastered
